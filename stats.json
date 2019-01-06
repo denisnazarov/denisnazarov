@@ -1,0 +1,76 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-privacy-js": [
+      "component---src-pages-privacy-js-0f95372a30d8cb5af9c2.js",
+      "component---src-pages-privacy-js-0f95372a30d8cb5af9c2.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-f6e5d84e131866e9c13f.js",
+      "component---src-pages-index-js-f6e5d84e131866e9c13f.js.map"
+    ],
+    "path---blog": [
+      "path---blog-36d3b8e276a7c8406a3c.js",
+      "path---blog-36d3b8e276a7c8406a3c.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---terms": [
+      "path---terms-a0e39f21c11f6a62c5ab.js",
+      "path---terms-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-51ff2f19f0506cfd72cf.js",
+      "component---src-layouts-index-js-51ff2f19f0506cfd72cf.js.map"
+    ],
+    "path---index": [
+      "path---index-025aba5cc5f0f70f29db.js",
+      "path---index-025aba5cc5f0f70f29db.js.map"
+    ],
+    "component---src-pages-blog-index-js": [
+      "component---src-pages-blog-index-js-a30fed62c853bb9487c7.js",
+      "component---src-pages-blog-index-js-a30fed62c853bb9487c7.js.map"
+    ],
+    "path---privacy": [
+      "path---privacy-a0e39f21c11f6a62c5ab.js",
+      "path---privacy-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "commons": [
+      "commons-efaf8e6c1f5540b33e93.js",
+      "commons-efaf8e6c1f5540b33e93.js.map"
+    ],
+    "component---src-templates-blog-post-template-js": [
+      "component---src-templates-blog-post-template-js-8e54fd255392f27a75c2.js",
+      "component---src-templates-blog-post-template-js-8e54fd255392f27a75c2.js.map"
+    ],
+    "path---blog-reading-piles-of-books": [
+      "path---blog-reading-piles-of-books-840c542989548f5c2b29.js",
+      "path---blog-reading-piles-of-books-840c542989548f5c2b29.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-b51127f60f6dae301ee7.js",
+      "app-b51127f60f6dae301ee7.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-a5f62d178ebc202dd308.js",
+      "component---src-pages-about-js-a5f62d178ebc202dd308.js.map"
+    ],
+    "component---src-pages-terms-js": [
+      "component---src-pages-terms-js-aec70ef8474093b3c61e.js",
+      "component---src-pages-terms-js-aec70ef8474093b3c61e.js.map"
+    ],
+    "path---about": [
+      "path---about-c94bddb6bb9720e70ce3.js",
+      "path---about-c94bddb6bb9720e70ce3.js.map"
+    ]
+  }
+}
