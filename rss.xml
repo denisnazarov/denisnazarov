@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Denis Nazarov]]></title><description><![CDATA[My blog]]></description><link>https://denisnazarov.com/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 10 Jan 2019 23:48:47 GMT</lastBuildDate><item><title><![CDATA[Reading piles of books]]></title><description><![CDATA[On a  podcast , Tyler Cowen is asked to recommend some of his favorite books that he recently read. He avoids suggesting specific ones, and…]]></description><link>https://denisnazarov.com//reading-piles-of-books/</link><guid isPermaLink="false">https://denisnazarov.com//reading-piles-of-books/</guid><pubDate>Sat, 05 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;On a &lt;a href=&quot;https://art19.com/shows/the-ezra-klein-show/episodes/a7b96016-90fe-48e1-ad4b-4fc0b3e50738&quot;&gt;podcast&lt;/a&gt;, Tyler Cowen is asked to recommend some of his favorite books that he recently read.&lt;/p&gt;
+&lt;p&gt;He avoids suggesting specific ones, and instead describes the broader topics or areas of interest that he’s been studying lately. The history of &lt;a href=&quot;https://www.amazon.com/Open-Autobiography-Andre-Agassi/dp/0307388409/&quot;&gt;tennis&lt;/a&gt;, for example.&lt;/p&gt;
+&lt;p&gt;In order to deeply understand a topic he’s interested in, Cowen says he compiles and reads a pile of books on a subject rather than reading a single book. To rephrase an old saying, the pile is greater than the sum of its books.&lt;/p&gt;
+&lt;p&gt;The concept of reading piles of books is called &lt;em&gt;syntopical reading&lt;/em&gt; in Adler’s &lt;a href=&quot;http://thoughtfullfilling.blogspot.com/2012/04/how-to-read-book-review.html&quot;&gt;How to Read a Book&lt;/a&gt;. According to Adler’s levels of reading, syntopical reading is the fourth and most difficult level of reading. Instead of only reading one book, many related books are placed into a dialogue inside the reader’s mind, who actively compares and contrasts them.&lt;/p&gt;
+&lt;p&gt;This sounds like an effective way to learn. I understand something new best when hearing it discussed in different ways or from different perspectives.&lt;/p&gt;
+&lt;p&gt;But reading a single book is difficult enough. Most good books are hard, and at the very least require a significant investment of time.&lt;/p&gt;
+&lt;p&gt;Most books are also too long. Tyler Cowen agrees that the essence of most analytical books can be communicated in an article or a blog post, saving hundreds of pages of effort for both reader and writer.&lt;/p&gt;
+&lt;h2&gt;Stretchtext&lt;/h2&gt;
+&lt;p&gt;How can one then expect to read piles of books?&lt;/p&gt;
+&lt;p&gt;If only there was a way to convert long books into succinct and to-the-point versions of themselves.&lt;/p&gt;
+&lt;p&gt;A knob you could turn, kind of like &lt;a href=&quot;https://en.wikipedia.org/wiki/SparkNotes&quot;&gt;SparkNotes&lt;/a&gt;, but on demand, dynamic and catered specifically to you. Letting you dial up, or down, the fidelity on any part of a book you’re curious, or not curious, about.&lt;/p&gt;
+&lt;p&gt;A device that could shorten, or fast forward through, the books you read, turning them into the equivalent of blog posts or outlines, exposing you to just the parts that mattered, or parts you would be interested in.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/fd2c4e58d36b314e4027112a36b549c7/ffaae/stretchtext.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 465px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 132.04301075268816%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAaCAIAAAA44esqAAAACXBIWXMAAAsTAAALEwEAmpwYAAAChUlEQVQ4y3XUWzNjURAFYP//91BeXIIgQYYQGUKEECKMSxXikmG+2s2JnIl+2Dr79Opevbq3iY9kr6+vjUbj8PCwXq9vbW1Vq9Varba7u+vn/v6+T7+TbW5uPj4+in9/f3dOxJ/Ly0sRUry8vHyMswjr9XrNZjMPdnV3dxe37O848/X5+RmdPBjJn2p+NzF7e3t58M7OzmAw0M/R0VG73T44OOh0Ono5Pj5utVonJyccl2jrbkzl+/t7EZxfyTik2tjYEE1CbNVE2+Xb21sQGYL1vL29HRhFKpUKADDBT09PpTs7OxPpa7/fHwEbg8rr6+vS86vJOIZXSyZviCIgD6b2w8MDPqblHCSjcCZ+hHGAfRoBUyJYZYD/LUY1Ru2rqyuqZrc/GbC55MEadnt9fX1xcXF+ft7tdjmm5ewmMza+zkdGlXmQOjdSc4bXhcnRufNlUqj8nchEjhgle8mU0gvH+efL+JlaQzCR68mMMYqrrFr7y3BBmy7ml+8ZZxiOwWIrhT0V6g3GzK2AhbE5YwSLt6bD+fn5ubm5WEZbxYHkyOLT8vKyGzRH5kwM1XyYmZkRWiqVpAArFArq4+KT4rL7eXt7G8U/wVqKfyOrq6uctbU1eFmQtOfxQsrlsuZ9zV7+J5g8mhQEBoCzRE7vyQnvcmpqCnlhlmIETEkpJVaBnl6CysViEe2FhQUpgov9B85XDsFsD9rWSIeKLC0tLS4uajVemBSWBDjf883NjcqCJicnp6en1Yd0SrSysiIjMP5epRp5cMxZz+VkomdnZxE2G2cxmUtLpobzE5xtmCKVZDFwP2ND4n+A0H4yyj09PQ3XM4pHnwEgWPB0SWp9hiLa5meQf9RYiQMiynA4AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Stretchtext by Ted Nelson&quot;
+        title=&quot;&quot;
+        src=&quot;/static/fd2c4e58d36b314e4027112a36b549c7/ffaae/stretchtext.png&quot;
+        srcset=&quot;/static/fd2c4e58d36b314e4027112a36b549c7/6a426/stretchtext.png 148w,
+/static/fd2c4e58d36b314e4027112a36b549c7/42a28/stretchtext.png 295w,
+/static/fd2c4e58d36b314e4027112a36b549c7/ffaae/stretchtext.png 465w&quot;
+        sizes=&quot;(max-width: 465px) 100vw, 465px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/StretchText&quot;&gt;StretchText&lt;/a&gt; &lt;em&gt;expands or contracts the content in place, giving more control to the reader in determining what level of detail to read at.&lt;/em&gt;
+—Ted Nelson, 1967&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This would be great aid for syntopical reading, since you’d be able to process more knowledge with greater efficiency. Instead of spending days or weeks getting one dense perspective by a single author, you can read many books in that same amount of time, getting many perspectives from different writers.&lt;/p&gt;
+&lt;p&gt;No such technology exists that I know of yet (Stretchtext was just an idea), but below, I outline some techniques to get more out of books, faster and with less effort.&lt;/p&gt;
+&lt;h2&gt;How to read a book&lt;/h2&gt;
+&lt;p&gt;This idea of skimming or extracting the core idea of a text is central to the reading techniques described in the seminal &lt;a href=&quot;https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095&quot;&gt;How to Read a Book&lt;/a&gt; by Adler.&lt;/p&gt;
+&lt;p&gt;Adler says that not all books should be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;read&lt;/li&gt;
+&lt;li&gt;read in full&lt;/li&gt;
+&lt;li&gt;read at the same speed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Some books, on the other hand, may need to be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;read fully&lt;/li&gt;
+&lt;li&gt;read very slowly&lt;/li&gt;
+&lt;li&gt;read multiple times&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Therefore, a reader should be able to dynamically alter their reading style based on the difficulty of a work before them, how much time they have to spend with it, and what they want to get out of it.&lt;/p&gt;
+&lt;p&gt;One of the reading techniques described in the text is called “inspectional reading”. Rather than forcing one’s way through a book page by page, cover to cover, a reader instead starts by spending a brief amount of time to “inspect” the book at hand and extract its structure and main arguments to create a sort of map.&lt;/p&gt;
+&lt;p&gt;One skims the work with the goal of uncovering the skeleton (outline) the author has created in order to present the arguments (organs and flesh) of the book.&lt;/p&gt;
+&lt;p&gt;Inspectional techniques include paying attention to certain things.&lt;/p&gt;
+&lt;p&gt;The choice of title and subtitle. The chapter names and their ordering. The introduction’s exposition of the main thesis and supporting arguments. The topics enumerated in the index or sources cited in the bibliography.&lt;/p&gt;
+&lt;h2&gt;Diminishing returns&lt;/h2&gt;
+&lt;p&gt;At what stages of interaction with a book do you get the most out in relation to the effort put in? When do you approach diminishing returns? When is it time to change your approach or to stop reading the book altogether?&lt;/p&gt;
+&lt;p&gt;The initial curiosity that gets you interested in even considering a work is likely the highest return for the least effort. I personally indulge in constantly adding books to an endless wish list on Amazon, which now counts in the thousands. I know I’ll never read most of them, but I learn from considering them and looking them up.&lt;/p&gt;
+&lt;p&gt;Imagine you heard that &lt;a href=&quot;https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555&quot;&gt;Thinking, Fast and Slow&lt;/a&gt; explains how human cognitive biases impair their daily judgement. Reading only a blurb quickly puts the big idea in your mind, with a high-level understanding of its implications. If someone mentions cognitive biases at a party, you have at least a high-level sense of what they’re talking about.&lt;/p&gt;
+&lt;p&gt;Kahneman’s book is fascinating. But it is an exhaustive treatment of the topic that can be tedious to read. Inspective reading allows you to get the most out of a book with respect to the amount of time you have to devote to it.&lt;/p&gt;
+&lt;p&gt;Using a your limited free time to get a sense of the entire arc of a thesis and its supporting arguments by skimming is more useful than only getting through the first few chapters when attempting to read something from cover to cover.&lt;/p&gt;
+&lt;h2&gt;Extracting structure&lt;/h2&gt;
+&lt;p&gt;Effective written communication follows a pattern and most descriptive works are written using a common structure. Practicing identifying the structure makes extracting the main ideas of a book easier and quicker.&lt;/p&gt;
+&lt;p&gt;Typically, introductions at the beginning of expository books summarize the central arguments and structure of the text succinctly.&lt;/p&gt;
+&lt;p&gt;Next time you plan to read something, instead of reading a long blog post or New Yorker article, try reading the introduction to a book you know you aren’t ready to devote to reading in full. After reading a good introduction, you’ll have enough familiarity with the ideas of the book to hold a high level discussion on it, and, more importantly, to have it influence your thinking.&lt;/p&gt;
+&lt;p&gt;Authors often employ other standard structures. Chapter titles describe the main idea of the chapter. Chapters begin by introducing the main argument of that chapter. Skimming the first few sentences usually gives you a good sense what it is about. Chapters end with concluding remarks and a summary of the chapter. Reading both is a quick way to get a sense of the content.&lt;/p&gt;
+&lt;p&gt;Individual paragraphs work in a similar way on a zoomed in scale. Paragraphs have topic sentences, etc.&lt;/p&gt;
+&lt;p&gt;You can skim a chapter by quickly reading the first sentence and last sentence of every paragraph, spending more time in sections you find more important or interesting. And so on.&lt;/p&gt;
+&lt;h2&gt;A road trip without a map&lt;/h2&gt;
+&lt;p&gt;Reading absent-mindedly from cover to cover is like driving without a map. If you’re driving across the country from New York City, you know Los Angeles is somewhere west and you’ll probably get there if you just start driving west. But why not prepare for your trip? With minimal effort, you can learn the distance of the journey ahead of time, what cities you’ll have to stop in, what the weather is in different areas, and what supplies you’ll need to bring.&lt;/p&gt;
+&lt;p&gt;Understanding the structure of a book ahead of reading it also gives you a map to guide you on your reading quest. It lets you anticipate what’s next, giving more context and understanding to the section you’re on now. It keeps you from getting bored, because you can speed up your reading to get to a more interesting topic that’s coming ahead.&lt;/p&gt;
+&lt;p&gt;Sometime soon, machine learning will likely make something similar to Stretchtext a common feature to all digital readers. Until then, we can learn more by reading piles of books better and faster by using age-old reading techniques.&lt;/p&gt;
+&lt;h3&gt;Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095&quot;&gt;How to Read a Book: The Classic Guide to Intelligent Reading&lt;/a&gt; — Amazon&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://art19.com/shows/the-ezra-klein-show/episodes/a7b96016-90fe-48e1-ad4b-4fc0b3e50738&quot;&gt;Tyler Cowen on the painful end of American complacency&lt;/a&gt; — The Ezra Klein Show&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>
